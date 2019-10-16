@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Ikenna_123:4izaWAKjQiyD23P@cluster0-wnfo2.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
